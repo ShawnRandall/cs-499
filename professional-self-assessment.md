@@ -1,1 +1,15 @@
-"# Professional Self-Assessment" 
+
+Throughout my Computer Science program, I have grown significantly as a developer, problem solver, and technical thinker. This ePortfolio represents the culmination of that growth by showcasing the artifacts I selected, enhanced, and refined to demonstrate my mastery of the program outcomes. Each enhancement reflects not only my technical abilities, but also my commitment to writing clean, maintainable, and professional‑quality code.
+
+The work presented here highlights my strengths in software engineering, algorithms and data structures, and database management. By revisiting and improving earlier projects, I was able to apply industry‑standard practices such as modular design, defensive programming, secure database interactions, and performance‑focused data structure selection. These enhancements demonstrate my ability to evaluate existing code, identify weaknesses, and implement meaningful improvements that make the software more reliable, efficient, and maintainable.
+
+One of the most important skills I developed during this program is the ability to think critically about how software behaves in real‑world environments. This includes anticipating errors, validating inputs, logging system behavior, and ensuring that code is structured in a way that other developers can easily understand and extend. My enhanced dashboard project reflects this mindset by transforming a simple notebook into a more robust and professional application.
+
+I also strengthened my understanding of algorithms and data structures by improving my CRUD module. Through this enhancement, I demonstrated the ability to choose appropriate data structures, optimize operations for better performance, and implement search and filtering logic that reflects algorithmic thinking. These skills are essential for building scalable systems and writing code that performs well under real‑world constraints.
+
+In addition, I deepened my knowledge of relational databases by refining my database artifact. I improved the schema, added parameterized queries for security, implemented validation, and optimized queries for efficiency. These enhancements show my ability to design and interact with databases in a way that aligns with industry best practices, ensuring both data integrity and application reliability.
+
+Collectively, these enhancements demonstrate my achievement of the five program outcomes: software engineering and design, algorithms and data structures, databases, security, and professional communication. Each artifact in this ePortfolio provides quantifiable evidence of my ability to apply these outcomes in practical, meaningful ways.
+
+As I move forward in my career, I will continue to build on the foundation I developed throughout this program. I am committed to writing thoughtful, maintainable code, learning new technologies, and approaching every project with curiosity and professionalism. This ePortfolio reflects not only what I have accomplished, but also the developer I have become — someone ready to contribute to real‑world software development with confidence and skill.
+
